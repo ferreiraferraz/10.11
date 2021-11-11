@@ -57,7 +57,7 @@ arrayinverso(array);
 console.log(array);
 // 2. Crie a função inverter que recebe um Array como argumento e retorna um novo
 // invertido.
-function arrayinverso2(array) { //Deu Certo!
+function arrayinverso2(array) {
     let tmp = []
     tmp[0] = array[3];
     tmp[1] = array[2];
